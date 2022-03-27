@@ -1,0 +1,14 @@
+.Image {
+  object-fit: cover;
+  border: 1px solid purple;
+  padding: 3px;
+  margin: 5px;
+}
+.Image.left {
+  float: left;
+  margin-left: 0;
+}
+.Image.right {
+  float: right;
+  margin-right: 0;
+}
