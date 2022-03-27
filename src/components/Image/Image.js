@@ -5,12 +5,9 @@ function Image(props) {
   const style = {
     width: props.width,
     height: props.height
-  }
+  };
 
-  return <img 
-    className={className} 
-    style={style} 
-    src={props.url} />
+  return <img className={className} style={style} src={props.url} alt="#"/>
 }
 
 export default Image;

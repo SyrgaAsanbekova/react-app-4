@@ -1,6 +1,6 @@
 import Paragraph from "./components/Paragraph/Paragraph";
 import Image from "./components/Image/Image";
-import Alert from "./components/Alert/Alert"
+import Alert from "./components/Alert/Alert";
 import flowersImage from "./Assets/spring-flowers.jpg";
 import milkyWayImage from "./Assets/milky-way.jpg";
 import Button from "./components/Button/Button";
