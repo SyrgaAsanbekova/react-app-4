@@ -49,7 +49,7 @@ function Cards(props) {
   const card = cards.map((card) => {
     return (
       <div className="Cards">
-        <img src={card.url} />
+        <img src={card.url} alt="#" />
         <h3>{card.id}</h3>
         <p>{card.title}</p>
       </div>
